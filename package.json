@@ -1,0 +1,15 @@
+{
+  "author": "dignifiedquire",
+  "bugs": {
+    "url": "https://github.com/BurntSushi/toml/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/BurntSushi/toml"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "MIT",
+  "name": "toml",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.3.0"
+}
